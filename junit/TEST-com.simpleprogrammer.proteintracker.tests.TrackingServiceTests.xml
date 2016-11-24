@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="2" failures="0" hostname="ITEM-A21250" name="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" skipped="0" tests="5" time="0.175" timestamp="2016-11-24T15:49:01">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Users/atapardea/eclipse/jee-neon/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates/" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_91\lib\resources.jar;C:\Program Files\Java\jre1.8.0_91\lib\rt.jar;C:\Program Files\Java\jre1.8.0_91\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_91\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_91\lib\jce.jar;C:\Program Files\Java\jre1.8.0_91\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_91\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_91\classes" />
+    <property name="env.COMPUTERNAME" value="ITEM-A21250" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.runtime.version" value="1.8.0_91-b15" />
+    <property name="env.HOMEPATH" value="\Users\atapardea" />
+    <property name="user.name" value="atapardea" />
+    <property name="user.language" value="en" />
+    <property name="env.windows_tracing_flags" value="3" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_91\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="Protein Tracker Tests" />
+    <property name="java.version" value="1.8.0_91" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\ATAPAR~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_91\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="../../eclipse/jee-neon/eclipse/" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_91" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\atapardea\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\atapardea\workspace\Protein Tracker Tests\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.91-b15" />
+    <property name="Protein Tracker Project.location" value="../Protein Tracker Project" />
+    <property name="env.USERPROFILE" value="C:\Users\atapardea" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_91" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\ATAPAR~1\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Users/atapardea/eclipse/jee-neon/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts/" />
+    <property name="user.home" value="C:\Users\atapardea" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_91\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\atapardea\Desktop\apache maven 333\apache-maven-3.3.3\bin;C:\Users\atapardea\Desktop;;." />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.USERDNSDOMAIN" value="AXWAY.INT" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="ant.file.Protein Tracker Tests" value="C:\Users\atapardea\workspace\Protein Tracker Tests\build.xml" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.class.path" value="C:\Users\atapardea\workspace\Protein Tracker Tests\bin;C:\junit-4.10.jar;C:\Users\atapardea\workspace\Protein Tracker Project\bin;C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.simpleprogrammer.proteintracker.tests.TrackingServiceTests skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\atapardea\workspace\Protein Tracker Tests\junit\TEST-com.simpleprogrammer.proteintracker.tests.TrackingServiceTests.xml crashfile=C:\Users\atapardea\workspace\Protein Tracker Tests\junitvmwatcher5558801345597965029.properties propsfile=C:\Users\atapardea\workspace\Protein Tracker Tests\junit7165845892877203276.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.LOGONSERVER" value="\\WPHXDC5" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.io.tmpdir" value="C:\Users\ATAPAR~1\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="3a09" />
+    <property name="eclipse.pdebuild.home" value="/C:/Users/atapardea/eclipse/jee-neon/eclipse/../../../.p2/pool/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/./" />
+    <property name="env.UATDATA" value="C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_91\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\atapardea\workspace\Protein Tracker Tests" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\atapardea\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_91/bin/server;C:/Program Files/Java/jre1.8.0_91/bin;C:/Program Files/Java/jre1.8.0_91/lib/amd64;C:\Program Files\Java\jdk1.8.0_91\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\atapardea\Desktop\apache maven 333\apache-maven-3.3.3\bin;C:\Users\atapardea\Desktop;" />
+    <property name="basedir" value="C:\Users\atapardea\workspace\Protein Tracker Tests" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\atapardea\.p2\pool\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="env.USERNAME" value="atapardea" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="source" value="1.8" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.file.type.Protein Tracker Tests" value="file" />
+    <property name="env.USERDOMAIN" value="AXWAY" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,TrackingServiceTests" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" name="WhenRemovingProteinTotalRemainsZero" time="0.06">
+    <error message="test timed out after 20 milliseconds" type="java.lang.Exception">java.lang.Exception: test timed out after 20 milliseconds
+	at com.simpleprogrammer.proteintracker.TrackingService.addProtein(TrackingService.java:15)
+	at com.simpleprogrammer.proteintracker.tests.TrackingServiceTests.WhenRemovingProteinTotalRemainsZero(TrackingServiceTests.java:75)
+</error>
+  </testcase>
+  <testcase classname="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" name="WhenGoalIsSetToLessThanZeroExceptionIsTHrown" time="0.001" />
+  <testcase classname="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" name="NewTrackingServiceTotalIsZero" time="0.001" />
+  <testcase classname="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" name="BadTest" time="0.048">
+    <error message="test timed out after 20 milliseconds" type="java.lang.Exception">java.lang.Exception: test timed out after 20 milliseconds
+	at com.simpleprogrammer.proteintracker.tests.TrackingServiceTests.BadTest(TrackingServiceTests.java:105)
+</error>
+  </testcase>
+  <testcase classname="com.simpleprogrammer.proteintracker.tests.TrackingServiceTests" name="WhenAddingProteinTotalIncreasesByThatAmount" time="0.012" />
+  <system-out><![CDATA[Before class
+After class
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
